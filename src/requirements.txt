@@ -1,0 +1,8 @@
+akasha-terminal
+
+python-dotenv
+PyYAML
+
+pip
+setuptools
+pip-autoremove
