@@ -1,4 +1,4 @@
-# Akasha Test
+# Akasha Example
 
 [Akasha Offical GitHub Repository](https://github.com/iii-org/akasha)
 [Akasha Offical Chinese Manual](https://hackmd.io/@akasha-terminal-2024/ryS4pS1ca)
